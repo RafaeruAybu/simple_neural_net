@@ -1,2 +1,1 @@
-rm *.ppm
-rm *.bin
+rm -rf data
